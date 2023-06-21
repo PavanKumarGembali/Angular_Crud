@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "PAVAN KUMAR",
+      "lastname": "GEMBALI",
+      "email": "pavan@gmail.com",
+      "dob": "1996-07-23T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "BA Infotech",
+      "exp": 1,
+      "pkg": 3,
+      "id": 1
+    },
+    {
+      "firstname": "raghu",
+      "lastname": "k",
+      "email": "raghu@gmail.com",
+      "dob": "2023-04-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "google",
+      "exp": 2,
+      "pkg": 1,
+      "id": 2
+    }
+  ]
+}
